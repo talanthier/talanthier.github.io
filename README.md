@@ -10,6 +10,9 @@ B.A. Mathematics, Statistics Minor \
 3.96 GPA
 
 ## Work Experience
+#### Research Programmer Assistant - Chapman University | November 2024 - Present
+
+
 #### Data Analyst - BMO | January 2023 - August 2024
 San Francisco, CA
 - Developed sales pipeline and calling activity KPIs and reporting with Python to measure and identify key areas driving bank growth and analyze the effect of the Bank of the West acquisition
