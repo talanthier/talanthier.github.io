@@ -1,5 +1,5 @@
 # Data Scientist
-Master of Data Science student at University of California, Irvine.
+Master of Data Science student at University of California, Irvine and Research Programmer Assistant at Chapman University.
 
 ## Education
 #### University of California, Irvine | September 2024 - December 2025
@@ -11,6 +11,9 @@ B.A. Mathematics, Statistics Minor \
 
 ## Work Experience
 #### Research Programmer Assistant - Chapman University | November 2024 - Present
+- Assisted Dr. Sherry Wang’s AI research team with data analysis and statistical modeling using Python
+- Developed machine learning models to predict risk of opioid overdose based on California PDMP data
+- Investigated bias in models assessing opioid overdose risk using fairness metrics on protected classes
 
 
 #### Data Analyst - BMO | January 2023 - August 2024
@@ -27,3 +30,15 @@ Santa Cruz, CA
 - Developed lesson plans and practice problems to prepare students for exams and assist with homework assignments
 
 ## Projects
+#### Satellite Imagery Wildfire Detection
+- Built ML models to classify whether area was affected by wildfires based on satellite imagery using Python
+- Used PyTorch to build Convolutional Neural Network models
+
+#### Trending Youtube Video Analysis
+- Built linear regression model using R based on trending youtube video characteristics to predict view counts
+- Conducted regression analysis to determine the significance of features such as upload time, title characteristics, video length etc. in predicting trending video view counts
+
+#### Tanzania Water Pump Analysis
+- Analyzed Tanzanian Ministry of Water data reporting on the status of water pumps across Tanzania using Python
+- Identified water quality, water pump funder, and installer as key predictors of the status of water pumps
+- Built a random forest model classifying if a pump was functional, non-functional, or functional with repairs with 81% accuracy
