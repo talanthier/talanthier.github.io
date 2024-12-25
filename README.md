@@ -3,7 +3,7 @@ Master of Data Science student at University of California, Irvine and Research 
 
 ## Education
 #### University of California, Irvine | September 2024 - December 2025
-Master of Data Science
+Master of Data Science \
 3.90 GPA
 
 #### University of California, Santa Cruz | September 2018 - June 2022
