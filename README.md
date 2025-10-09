@@ -1,10 +1,10 @@
 # Data Scientist
-Master of Data Science student at University of California, Irvine and Research Programmer Assistant at Chapman University.
+Masters of Data Science student at UC Irvine graduating in December 2025.
 
 ## Education
 #### University of California, Irvine | September 2024 - December 2025
 Master of Data Science \
-3.90 GPA
+3.97 GPA 
 
 #### University of California, Santa Cruz | September 2018 - June 2022
 B.A. Mathematics, Statistics Minor \
@@ -31,6 +31,11 @@ Santa Cruz, CA
 - Developed lesson plans and practice problems to prepare students for exams and assist with homework assignments
 
 ## Projects
+#### Traffic Volume Forecasting
+- Implemented Gaussian Process regression for time series forecasting of hourly traffic volume along a Minnesota highway with Python
+- Experimented with kernel function combinations to model temporal and periodic traffic patterns
+- Captured seasonal and daily traffic trends utilizing a combination of periodic kernel functions
+
 #### Satellite Imagery Wildfire Detection
 - Built ML models to classify whether area was affected by wildfires based on satellite imagery using Python
 - Used PyTorch to build Convolutional Neural Network models
