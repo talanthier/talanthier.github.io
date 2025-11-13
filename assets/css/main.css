@@ -4735,7 +4735,6 @@ input, select, textarea {
 	gap: 3rem;
 	position: relative;
 	margin: 4rem auto;
-	max-width: 1200px;
 }
 
 /* Left + right stacks share common styles */
@@ -4784,7 +4783,7 @@ input, select, textarea {
 
 /* Center text column */
 .text-block {
-	max-width: 500px;
+	max-width: 1200px;
 	text-align: justify;
 }
 
